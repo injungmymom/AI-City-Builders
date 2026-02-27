@@ -1,0 +1,21 @@
+# 환경 변수 (발전소 출입증)
+.env
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+venv/
+.venv/
+
+# Node
+node_modules/
+dist/
+
+# 완제품 (용량 큼)
+backend/outputs/
+
+# IDE
+.vscode/
+.idea/
+*.swp
